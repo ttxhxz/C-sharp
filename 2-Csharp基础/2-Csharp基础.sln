@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-注释符的使用", "01-注释符的使用\01-注释符的使用.csproj", "{2357368D-DACC-481A-B70D-7A837CA8EA98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-VS当中的常用快捷键", "02-VS当中的常用快捷键\02-VS当中的常用快捷键.csproj", "{72D02539-26A1-47DF-8242-B1AA8980C0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-变量", "03-变量\03-变量.csproj", "{08595681-6DDF-4629-B939-A3ADB0069C56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2357368D-DACC-481A-B70D-7A837CA8EA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2357368D-DACC-481A-B70D-7A837CA8EA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2357368D-DACC-481A-B70D-7A837CA8EA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2357368D-DACC-481A-B70D-7A837CA8EA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D02539-26A1-47DF-8242-B1AA8980C0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D02539-26A1-47DF-8242-B1AA8980C0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D02539-26A1-47DF-8242-B1AA8980C0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D02539-26A1-47DF-8242-B1AA8980C0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08595681-6DDF-4629-B939-A3ADB0069C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08595681-6DDF-4629-B939-A3ADB0069C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08595681-6DDF-4629-B939-A3ADB0069C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08595681-6DDF-4629-B939-A3ADB0069C56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E5F01E-A79C-4222-9113-4F34208C5B42}
+	EndGlobalSection
+EndGlobal
