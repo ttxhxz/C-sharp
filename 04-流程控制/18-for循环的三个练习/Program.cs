@@ -71,6 +71,7 @@ namespace _18_for循环的三个练习
             }
             Console.ReadKey();
 
+
         }
     }
 }
