@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-枚举", "02-枚举\02-枚举.csproj", "{03FDDE4F-E8FC-406A-BC6F-1E01E095719D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-枚举的练习", "03-枚举的练习\03-枚举的练习.csproj", "{2CDB758F-34E2-4C0B-A491-76E9CFAED047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-枚举和int以及string类型之间的转换", "04-枚举和int以及string类型之间的转换\04-枚举和int以及string类型之间的转换.csproj", "{4FB87AC8-D9A2-408D-B890-728BC80BED64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-结构", "05-结构\05-结构.csproj", "{23B785C6-497F-450F-BFBA-47FC2C260375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-结构体练习", "06-结构体练习\06-结构体练习.csproj", "{EDB9FBB5-2DC8-4CAA-8348-20176C576743}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{03FDDE4F-E8FC-406A-BC6F-1E01E095719D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03FDDE4F-E8FC-406A-BC6F-1E01E095719D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03FDDE4F-E8FC-406A-BC6F-1E01E095719D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDB758F-34E2-4C0B-A491-76E9CFAED047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDB758F-34E2-4C0B-A491-76E9CFAED047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDB758F-34E2-4C0B-A491-76E9CFAED047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDB758F-34E2-4C0B-A491-76E9CFAED047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB87AC8-D9A2-408D-B890-728BC80BED64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB87AC8-D9A2-408D-B890-728BC80BED64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB87AC8-D9A2-408D-B890-728BC80BED64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB87AC8-D9A2-408D-B890-728BC80BED64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B785C6-497F-450F-BFBA-47FC2C260375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B785C6-497F-450F-BFBA-47FC2C260375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B785C6-497F-450F-BFBA-47FC2C260375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B785C6-497F-450F-BFBA-47FC2C260375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB9FBB5-2DC8-4CAA-8348-20176C576743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB9FBB5-2DC8-4CAA-8348-20176C576743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB9FBB5-2DC8-4CAA-8348-20176C576743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB9FBB5-2DC8-4CAA-8348-20176C576743}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
