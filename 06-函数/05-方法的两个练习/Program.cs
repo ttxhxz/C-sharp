@@ -26,7 +26,8 @@ namespace _05_方法的两个练习
             Console.WriteLine(Sum(arrays));
             Console.ReadKey();
         }
-        
+
+        #region 判断字符串是否为y或者n
         /// <summary>
         /// 判断字符串是否为y或者n，
         /// 如果是，则返回
@@ -38,7 +39,7 @@ namespace _05_方法的两个练习
         {
             while (true)
             {
-                if(str =="y" ||str == "n")
+                if (str == "y" || str == "n")
                 {
                     return str;
                 }
@@ -49,7 +50,8 @@ namespace _05_方法的两个练习
                 }
             }
         }
-
+        #endregion
+        
         /// <summary>
         /// 查找两个整数中的最大值
         /// </summary>
