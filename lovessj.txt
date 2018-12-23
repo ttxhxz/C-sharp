@@ -4,3 +4,5 @@
 2018.12.14	
 	创建本地分支并切换	git checkout -b 07_FlightChess
 	推送到远程分支		git push origin 07_FlightChess
+2018.12.23
+	创建分支远程推送。。。会导致github不计算贡献，所以更改回master分支push
