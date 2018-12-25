@@ -4,19 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_面向对象
+namespace _03_静态和非静态的区别
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //创建Person类的对象
-            Person suQuan = new Person();
-            suQuan.Name = "孙全";
-            suQuan.Age = -23;
-            suQuan.Gender = '春';
-            suQuan.CHLSS();
+            //调用实例成员
+            Person p = new Person();
+            p.M1();
+            Person.M2();
+            
+
             Console.ReadKey();
+
         }
     }
 }

@@ -4,19 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_面向对象
+namespace _05_练习
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //创建Person类的对象
-            Person suQuan = new Person();
-            suQuan.Name = "孙全";
-            suQuan.Age = -23;
-            suQuan.Gender = '春';
-            suQuan.CHLSS();
+            Ticket t = new Ticket(350);
+            t.ShowTicket();
             Console.ReadKey();
+
         }
     }
 }

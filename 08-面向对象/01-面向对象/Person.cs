@@ -16,24 +16,38 @@ namespace _01_面向对象
             //当你给属性赋值的时候 首先会执行set方法
             set { _name = value; }
         }
-        
+
         private int _age;
         public int Age
         {
             get { return _age; }
-            set { _age = value; }
+            set
+            {
+                if (value < 0 || value > 100)
+                {
+                    value = 0;
+                }
+                _age = value;
+            }
         }
 
         private char _gender;
         public char Gender
         {
-            get { return _gender; }
+            get
+            {
+                if (_gender != '男' && _gender != '女')
+                {
+                    _gender = '男';
+                }
+                return _gender;
+            }
             set { _gender = value; }
         }
 
         public void CHLSS()
         {
-            Console.WriteLine("我叫{0}，我今年{1}岁了，我是{2}生", this._name, this._age, this._gender);
+            Console.WriteLine("我叫{0}，我今年{1}岁了，我是{2}生", this._name, this._age, this.Gender);
         }
     }
 }

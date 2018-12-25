@@ -4,19 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_面向对象
+namespace _00_复习
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //创建Person类的对象
-            Person suQuan = new Person();
-            suQuan.Name = "孙全";
-            suQuan.Age = -23;
-            suQuan.Gender = '春';
-            suQuan.CHLSS();
+            Person zsPerson = new Person("张三", -18, '中');
+            zsPerson.SayHello();
             Console.ReadKey();
+            //new：1、在内存中开辟一块空间2、在开辟的创建对象3、调用对象的构造函数
         }
     }
 }
