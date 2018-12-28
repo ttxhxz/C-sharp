@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _00_复习
 {
-    class Person
+    public class Person
     {
         //字段、属性、方法、构造函数
         //字段：存储数据
