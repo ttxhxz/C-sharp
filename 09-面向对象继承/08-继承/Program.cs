@@ -37,6 +37,17 @@ namespace _08_继承
             set { _gender = value; }
         }
 
+        public People(string name, int age, char gender)
+        {
+            this.Name = name;
+            this.Age = age;
+            this.Gender = gender;
+        }
+
+        //public People()
+        //{
+        //}
+
         public void CHLSS()
         {
             Console.WriteLine("吃喝拉撒睡");
@@ -50,6 +61,11 @@ namespace _08_继承
         {
             get { return _id; }
             set { _id = value; }
+        }
+
+        public Student(string name, int age, char gender, int id) : base(name, age, gender)
+        {
+            this.Id = id;
         }
 
         public void Study()
@@ -67,13 +83,18 @@ namespace _08_继承
             set { _salary = value; }
         }
 
+        public Teacher(string name, int age, char gender, double salary) : base(name, age, gender)
+        {
+            this.Salary = salary;
+        }
+
         public void Teach()
         {
             Console.WriteLine("讲课");
         }
     }
 
-    public class Driver : People
+    public class Driver
     {
         private int _driverTime;
         public int DriverTime

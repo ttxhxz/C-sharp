@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{37C024EA-F83F-4A16-AAAD-FBC159D1FA31}</ProjectGuid>
+    <ProjectGuid>{564A1C22-2FF2-4399-B7F1-A0DE3A90687B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08_继承</RootNamespace>
-    <AssemblyName>08-继承</AssemblyName>
+    <RootNamespace>_11_里式转换</RootNamespace>
+    <AssemblyName>11-里式转换</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

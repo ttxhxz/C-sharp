@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{37C024EA-F83F-4A16-AAAD-FBC159D1FA31}</ProjectGuid>
+    <ProjectGuid>{B0E56904-A390-48EC-B9C6-0425ACA74AC2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08_继承</RootNamespace>
-    <AssemblyName>08-继承</AssemblyName>
+    <RootNamespace>_12_里式转换练习</RootNamespace>
+    <AssemblyName>12-里式转换练习</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

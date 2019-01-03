@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{37C024EA-F83F-4A16-AAAD-FBC159D1FA31}</ProjectGuid>
+    <ProjectGuid>{50EB4DE6-5FC0-464D-AEE7-93D824724727}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08_继承</RootNamespace>
-    <AssemblyName>08-继承</AssemblyName>
+    <RootNamespace>_10_关键字_new</RootNamespace>
+    <AssemblyName>10-关键字-new</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
