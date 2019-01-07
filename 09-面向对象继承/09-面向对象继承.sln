@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-var推断类型", "19-va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Path类", "20-Path类\20-Path类.csproj", "{2B417301-FD59-4FD7-8AC1-CB0C5B94C2BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-File类", "21-File类\21-File类.csproj", "{DC913675-F236-4F85-ADED-D54586017B25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{2B417301-FD59-4FD7-8AC1-CB0C5B94C2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B417301-FD59-4FD7-8AC1-CB0C5B94C2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B417301-FD59-4FD7-8AC1-CB0C5B94C2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC913675-F236-4F85-ADED-D54586017B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC913675-F236-4F85-ADED-D54586017B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC913675-F236-4F85-ADED-D54586017B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC913675-F236-4F85-ADED-D54586017B25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
