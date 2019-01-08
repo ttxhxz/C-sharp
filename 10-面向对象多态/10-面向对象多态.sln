@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Dictionary", "04-Diction
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-泛型集合的练习", "05-泛型集合的练习\05-泛型集合的练习.csproj", "{7F505D27-7AD5-4473-B82C-E8907CC52DD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-FileStream", "06-FileStream\06-FileStream.csproj", "{07F1FC84-A939-4C72-8C63-E25BAF6FD973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-使用文件流来实现多媒体文件的复制", "07-使用文件流来实现多媒体文件的复制\07-使用文件流来实现多媒体文件的复制.csproj", "{5BC76D89-94EB-47E1-B49F-E7F9D5D88DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-StreamReader和StreamWriter", "08-StreamReader和StreamWriter\08-StreamReader和StreamWriter.csproj", "{D58EF03F-9551-421C-A949-EBA9BBA3C30B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{7F505D27-7AD5-4473-B82C-E8907CC52DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F505D27-7AD5-4473-B82C-E8907CC52DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F505D27-7AD5-4473-B82C-E8907CC52DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F1FC84-A939-4C72-8C63-E25BAF6FD973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F1FC84-A939-4C72-8C63-E25BAF6FD973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F1FC84-A939-4C72-8C63-E25BAF6FD973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F1FC84-A939-4C72-8C63-E25BAF6FD973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC76D89-94EB-47E1-B49F-E7F9D5D88DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC76D89-94EB-47E1-B49F-E7F9D5D88DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC76D89-94EB-47E1-B49F-E7F9D5D88DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC76D89-94EB-47E1-B49F-E7F9D5D88DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58EF03F-9551-421C-A949-EBA9BBA3C30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58EF03F-9551-421C-A949-EBA9BBA3C30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58EF03F-9551-421C-A949-EBA9BBA3C30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58EF03F-9551-421C-A949-EBA9BBA3C30B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
