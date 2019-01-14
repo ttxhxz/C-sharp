@@ -10,10 +10,10 @@ namespace _11_抽象类
     {
         static void Main(string[] args)
         {
-            Animal b = new Dog();
+            Animal b = new Dog(20);
             b.Bark();
 
-            Animal c = new Cat();
+            Animal c = new Cat(10);
             c.Bark();
 
             Console.ReadKey();
