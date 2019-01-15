@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-显式实现接口", "25
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-总结", "26-总结\26-总结.csproj", "{CF2AEB9B-AEB1-4AE6-8D6A-36CFE49E4BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-超市收银系统", "27-超市收银系统\27-超市收银系统.csproj", "{B3A24C58-749B-42F6-86DD-FA7FAE837CEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{CF2AEB9B-AEB1-4AE6-8D6A-36CFE49E4BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF2AEB9B-AEB1-4AE6-8D6A-36CFE49E4BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF2AEB9B-AEB1-4AE6-8D6A-36CFE49E4BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A24C58-749B-42F6-86DD-FA7FAE837CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A24C58-749B-42F6-86DD-FA7FAE837CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A24C58-749B-42F6-86DD-FA7FAE837CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A24C58-749B-42F6-86DD-FA7FAE837CEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
