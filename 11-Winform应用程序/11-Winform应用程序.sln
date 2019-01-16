@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-MD5加密", "01-MD5加密\01-MD5加密.csproj", "{596364CB-99DB-46AC-8954-B158F761F15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596364CB-99DB-46AC-8954-B158F761F15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596364CB-99DB-46AC-8954-B158F761F15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596364CB-99DB-46AC-8954-B158F761F15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596364CB-99DB-46AC-8954-B158F761F15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99877506-56B2-4EC5-87FE-4E9E97675BCF}
+	EndGlobalSection
+EndGlobal
