@@ -16,5 +16,10 @@ namespace _08_PictureBox
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            pictureBox1.Image = Image.FromFile(@"F:\LoveSSJ\ssj.jpg");
+        }
     }
 }
