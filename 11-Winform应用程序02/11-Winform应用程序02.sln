@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Directory", "01-Directory\01-Directory.csproj", "{A57CFA22-BD1E-4D34-A278-E0DAF23F3A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Directory", "02-Directory\02-Directory.csproj", "{37A72BEE-AEA9-43AD-9989-53DC6010317C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-浏览器", "03-浏览器\03-浏览器.csproj", "{1C8D3ED7-1BA7-41A8-8F2A-EF2F97D418F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ComboBox", "04-ComboBox\04-ComboBox.csproj", "{38D94706-A6DB-4DDE-9E2E-9CB7D2771CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-日期选择器", "05-日期选择器\05-日期选择器.csproj", "{985A4D31-F50F-4C83-B9FA-3A8737CD5511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ListBox控件", "06ListBox控件\06ListBox控件.csproj", "{8D47918D-F608-41DB-AD0B-913201F4BF4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-实现点击更换照片", "07-实现点击更换照片\07-实现点击更换照片.csproj", "{7BB99E4B-6485-41C8-918F-B131ACAB8C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57CFA22-BD1E-4D34-A278-E0DAF23F3A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57CFA22-BD1E-4D34-A278-E0DAF23F3A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57CFA22-BD1E-4D34-A278-E0DAF23F3A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57CFA22-BD1E-4D34-A278-E0DAF23F3A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A72BEE-AEA9-43AD-9989-53DC6010317C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A72BEE-AEA9-43AD-9989-53DC6010317C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A72BEE-AEA9-43AD-9989-53DC6010317C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A72BEE-AEA9-43AD-9989-53DC6010317C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8D3ED7-1BA7-41A8-8F2A-EF2F97D418F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8D3ED7-1BA7-41A8-8F2A-EF2F97D418F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8D3ED7-1BA7-41A8-8F2A-EF2F97D418F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8D3ED7-1BA7-41A8-8F2A-EF2F97D418F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D94706-A6DB-4DDE-9E2E-9CB7D2771CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D94706-A6DB-4DDE-9E2E-9CB7D2771CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D94706-A6DB-4DDE-9E2E-9CB7D2771CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D94706-A6DB-4DDE-9E2E-9CB7D2771CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985A4D31-F50F-4C83-B9FA-3A8737CD5511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985A4D31-F50F-4C83-B9FA-3A8737CD5511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985A4D31-F50F-4C83-B9FA-3A8737CD5511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985A4D31-F50F-4C83-B9FA-3A8737CD5511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D47918D-F608-41DB-AD0B-913201F4BF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D47918D-F608-41DB-AD0B-913201F4BF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D47918D-F608-41DB-AD0B-913201F4BF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D47918D-F608-41DB-AD0B-913201F4BF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB99E4B-6485-41C8-918F-B131ACAB8C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB99E4B-6485-41C8-918F-B131ACAB8C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB99E4B-6485-41C8-918F-B131ACAB8C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB99E4B-6485-41C8-918F-B131ACAB8C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA9C54C-3925-4D3D-991E-AF7C8D9B222F}
+	EndGlobalSection
+EndGlobal
