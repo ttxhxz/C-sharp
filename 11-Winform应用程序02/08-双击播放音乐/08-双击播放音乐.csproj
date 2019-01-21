@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7BB99E4B-6485-41C8-918F-B131ACAB8C3D}</ProjectGuid>
+    <ProjectGuid>{007C3D22-2951-4A6A-A3C2-EA949B4F0C78}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_07_实现点击更换照片</RootNamespace>
-    <AssemblyName>07-实现点击更换照片</AssemblyName>
+    <RootNamespace>_08_双击播放音乐</RootNamespace>
+    <AssemblyName>08-双击播放音乐</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
