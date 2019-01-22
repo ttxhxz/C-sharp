@@ -43,6 +43,7 @@
             this.lblText.Size = new System.Drawing.Size(173, 12);
             this.lblText.TabIndex = 1;
             this.lblText.Text = "☆★☆★☆★☆★☆★☆★☆★";
+            this.lblText.Click += new System.EventHandler(this.lblText_Click);
             // 
             // timer1
             // 

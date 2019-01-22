@@ -50,5 +50,10 @@ namespace _03_TextBox
         {
             lblTime.Text = DateTime.Now.ToString();
         }
+
+        private void lblText_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
