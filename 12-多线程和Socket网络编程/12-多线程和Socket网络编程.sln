@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-线程执行带参数的
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-摇奖机应用程序", "04-摇奖机应用程序\04-摇奖机应用程序.csproj", "{CED2D779-4C6C-4F6B-AF82-C54C90C55180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Socket服务端", "05-Socket服务端\05-Socket服务端.csproj", "{EC2473AD-4896-4BDC-AA6A-A44524947A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CED2D779-4C6C-4F6B-AF82-C54C90C55180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CED2D779-4C6C-4F6B-AF82-C54C90C55180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CED2D779-4C6C-4F6B-AF82-C54C90C55180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2473AD-4896-4BDC-AA6A-A44524947A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2473AD-4896-4BDC-AA6A-A44524947A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2473AD-4896-4BDC-AA6A-A44524947A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2473AD-4896-4BDC-AA6A-A44524947A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
