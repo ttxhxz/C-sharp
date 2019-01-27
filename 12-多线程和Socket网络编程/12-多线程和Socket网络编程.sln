@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-摇奖机应用程序", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Socket服务端", "05-Socket服务端\05-Socket服务端.csproj", "{EC2473AD-4896-4BDC-AA6A-A44524947A60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Client", "06-Client\06-Client.csproj", "{82D704B1-BA83-48FA-99C2-43A9444E2C45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EC2473AD-4896-4BDC-AA6A-A44524947A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC2473AD-4896-4BDC-AA6A-A44524947A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC2473AD-4896-4BDC-AA6A-A44524947A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D704B1-BA83-48FA-99C2-43A9444E2C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D704B1-BA83-48FA-99C2-43A9444E2C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D704B1-BA83-48FA-99C2-43A9444E2C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D704B1-BA83-48FA-99C2-43A9444E2C45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
