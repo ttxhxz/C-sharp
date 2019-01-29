@@ -8,6 +8,7 @@ namespace _01_练习1_3
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             #region 第一题
@@ -135,14 +136,14 @@ namespace _01_练习1_3
         {
             string ch = str.Substring(0, 1);
             ch = ch.ToLower();
-            return ch + str.Substring(1, str.Length - 1);
+            return ch + str.Substring(1);
         }
 
         public static string GetPascal(string str)
         {
             string ch = str.Substring(0, 1);
             ch = ch.ToUpper();
-            return ch + str.Substring(1, str.Length - 1);
+            return ch + str.Substring(1);
         }
     }
 }
