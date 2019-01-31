@@ -51,32 +51,32 @@ namespace _05_练习20_22
             #region 22
             //题目内容同上题，再增加一个显示姓“王”的同学的个数，此处不考虑复姓问题。
 
-            //List<string> names = new List<string>();
-            //int count = 0;
-            //while (true)
-            //{
-            //    Console.WriteLine("请输入学员姓名,输入quit退出");
-            //    string name = Console.ReadLine();
+            List<string> names = new List<string>();
+            int count = 0;
+            while (true)
+            {
+                Console.WriteLine("请输入学员姓名,输入quit退出");
+                string name = Console.ReadLine();
 
-            //    if (name.ToLower() == "quit")
-            //    {
-            //        break;
-            //    }
-            //    else
-            //    {
-            //        names.Add(name);
-            //        if (name[0] == '王')
-            //        {
-            //            count++;
-            //        }
-            //    }
-            //}
-            //Console.WriteLine("您一共录入了：{0}个学生，姓名分别为:", names.Count);
-            //foreach (string item in names)
-            //{
-            //    Console.WriteLine(item);
-            //}
-            //Console.WriteLine("姓王的同学的个数为：{0}", count);
+                if (name.ToLower() == "quit")
+                {
+                    break;
+                }
+                else
+                {
+                    names.Add(name);
+                    if (name[0] == '王')
+                    {
+                        count++;
+                    }
+                }
+            }
+            Console.WriteLine("您一共录入了：{0}个学生，姓名分别为:", names.Count);
+            foreach (string item in names)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("姓王的同学的个数为：{0}", count);
 
             #endregion
 
