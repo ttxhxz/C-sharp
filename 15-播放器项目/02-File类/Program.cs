@@ -21,10 +21,14 @@ namespace _02_File类
             //File.Delete(@"C:\Users\liuwe\Desktop\小熊猫.txt");
             //Console.WriteLine("删除成功");
 
-            byte[] buffer = File.ReadAllBytes(@"C:\Users\liuwe\Desktop\1.txt");
-            string str = Encoding.UTF8.GetString(buffer,0,buffer.Length);
-            Console.WriteLine(str);
-            Console.WriteLine(str.Length);
+            //byte[] buffer = File.ReadAllBytes(@"C:\Users\liuwe\Desktop\1.txt");
+            //string str = Encoding.UTF8.GetString(buffer,0,buffer.Length);
+            //Console.WriteLine(str);
+            //Console.WriteLine(str.Length);
+
+            //File.WriteAllLines(@"C:\Users\liuwe\Desktop\2.txt",new string[] { "张三","李四","王五"}); ;
+
+            File.AppendAllText(@"C:\Users\liuwe\Desktop\2.txt", "没有覆盖哦");
 
             Console.ReadKey();
 
