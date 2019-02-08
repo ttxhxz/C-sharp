@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-面向对象复习", "01-面向对象复习\01-面向对象复习.csproj", "{F654D195-3A8A-4FD8-88B9-1A4DBEAB809E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-关键字的用法", "02-关键字的用法\02-关键字的用法.csproj", "{13F4C253-557A-4244-BA68-44A7DC261692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-移动存储设备", "03-移动存储设备\03-移动存储设备.csproj", "{0BCB6E4E-3909-4CF3-9C9B-6DBCF7C950D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F654D195-3A8A-4FD8-88B9-1A4DBEAB809E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F654D195-3A8A-4FD8-88B9-1A4DBEAB809E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F654D195-3A8A-4FD8-88B9-1A4DBEAB809E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F654D195-3A8A-4FD8-88B9-1A4DBEAB809E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F4C253-557A-4244-BA68-44A7DC261692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F4C253-557A-4244-BA68-44A7DC261692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F4C253-557A-4244-BA68-44A7DC261692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F4C253-557A-4244-BA68-44A7DC261692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCB6E4E-3909-4CF3-9C9B-6DBCF7C950D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCB6E4E-3909-4CF3-9C9B-6DBCF7C950D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCB6E4E-3909-4CF3-9C9B-6DBCF7C950D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCB6E4E-3909-4CF3-9C9B-6DBCF7C950D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE0CFAA-EB26-4F15-A7CF-97857C94315E}
+	EndGlobalSection
+EndGlobal
