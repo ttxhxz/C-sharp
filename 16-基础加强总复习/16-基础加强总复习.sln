@@ -29,6 +29,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-字符串", "12-字符�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-字符串练习", "13-字符串练习\13-字符串练习.csproj", "{3579F299-DDB9-4591-9F8C-B0BF444E81D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-集合复习", "16-集合复习\16-集合复习.csproj", "{260DB666-3180-44A1-A1B5-AA01FCCF31F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-集合练习", "17-集合练习\17-集合练习.csproj", "{8245780F-2ADF-4D19-BE2D-8DBEBC81E8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-静态和非静态的区别", "18-静态和非静态的区别\18-静态和非静态的区别.csproj", "{BA2FE2C1-B0C4-4469-AC2A-95DA8E362098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-结构和类的区别", "19-结构和类的区别\19-结构和类的区别.csproj", "{A3840277-2269-417E-B96B-D43174F1E7F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +95,22 @@ Global
 		{3579F299-DDB9-4591-9F8C-B0BF444E81D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3579F299-DDB9-4591-9F8C-B0BF444E81D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3579F299-DDB9-4591-9F8C-B0BF444E81D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260DB666-3180-44A1-A1B5-AA01FCCF31F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260DB666-3180-44A1-A1B5-AA01FCCF31F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260DB666-3180-44A1-A1B5-AA01FCCF31F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260DB666-3180-44A1-A1B5-AA01FCCF31F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8245780F-2ADF-4D19-BE2D-8DBEBC81E8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8245780F-2ADF-4D19-BE2D-8DBEBC81E8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8245780F-2ADF-4D19-BE2D-8DBEBC81E8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8245780F-2ADF-4D19-BE2D-8DBEBC81E8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2FE2C1-B0C4-4469-AC2A-95DA8E362098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2FE2C1-B0C4-4469-AC2A-95DA8E362098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2FE2C1-B0C4-4469-AC2A-95DA8E362098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2FE2C1-B0C4-4469-AC2A-95DA8E362098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3840277-2269-417E-B96B-D43174F1E7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3840277-2269-417E-B96B-D43174F1E7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3840277-2269-417E-B96B-D43174F1E7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3840277-2269-417E-B96B-D43174F1E7F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
