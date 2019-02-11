@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book>
+    <Name>金瓶梅</Name>
+    <Price>10</Price>
+    <Des>好看</Des>
+  </Book>
+  <Book>
+    <Name>水浒传</Name>
+    <Price>9</Price>
+    <Des>108</Des>
+  </Book>
+</Books>
